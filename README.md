@@ -124,10 +124,10 @@
 * [PullDownListView](https://github.com/guojunyi/PullDownListView) **下拉仿微信眼睛**
 * [android-auto-update](https://github.com/feicien/android-auto-update) **android自动更新**  [WhatsAppBetaUpdater](https://github.com/javiersantos/WhatsAppBetaUpdater)
 * [SHSwitchView](https://github.com/7heaven/SHSwitchView) **IOS7 风格的Switch开关**
-*[SimpleOneStep](https://github.com/gavinliu/SimpleOneStep) **仿锤子拖动控件到边框的效果**
-*[SuperTextView](https://github.com/lygttpod/SuperTextView) **全能textView**
-*[LauncherView](https://github.com/diamondlin2016/LauncherView) **四个圆圈按轨迹运动效果**
-*[ScrollablePanel](https://github.com/Kelin-Hong/ScrollablePanel) **类似于Excel网格的效果**
+ *[SimpleOneStep](https://github.com/gavinliu/SimpleOneStep) **仿锤子拖动控件到边框的效果**
+ *[SuperTextView](https://github.com/lygttpod/SuperTextView) **全能textView**
+ *[LauncherView](https://github.com/diamondlin2016/LauncherView) **四个圆圈按轨迹运动效果**
+ *[ScrollablePanel](https://github.com/Kelin-Hong/ScrollablePanel) **类似于Excel网格的效果**
 
 ## AndroidWear
 
